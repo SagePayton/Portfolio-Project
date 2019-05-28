@@ -1,0 +1,58 @@
+.container{
+    height: 970px;
+    width: 1100px;
+    background-color: gainsboro;
+    margin: 0px auto;
+ }
+ .header{
+    height: 75px;
+    width: 1000px;
+ }
+ .header h1{
+    display: inline-block;
+    margin-left: 25px;
+    width: 500px;
+    font-family: comic sans ms;
+ }
+ .header h2{
+    display: inline-block;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .main_body {
+    height: 800px;
+    width: auto;
+    padding: 25px;
+    background-color: blueviolet;
+ }
+ .photo_of_me{
+    display: inline-block;
+ }
+ .summary {
+    display: inline-block;
+    vertical-align: top;
+    background-color: lightgray;
+    height: 260px;
+    width: 500px;
+    margin-left: 40px;    
+    padding:15px;
+    font-family: Arial, Helvetica, sans-serif
+ }
+ .summary h2{
+   background-color: darkgray;
+ } 
+ .summary a{
+    color: black;
+    font-size: 18px;
+ } 
+ .catagory{
+    height:auto;
+    width: 325px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top
+ }
+ .footer{
+    height: 75px;
+    width:1000px;
+ }
